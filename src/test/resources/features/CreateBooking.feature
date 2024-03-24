@@ -1,5 +1,5 @@
 Feature: Kullanici olarak otel rezervasyonu olusturabilirim
-
+@wip
   Scenario: Kullanici bir otel rezervasyonu olusturabilir ve rezervasyonu silebilir
     Given Kullanici yeni bir rezervasyon olusturuyor
     And Kullanici rezervasyon icin gereken bilgileri veriyor
